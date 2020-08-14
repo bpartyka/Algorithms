@@ -7,11 +7,11 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
-public class CalculatingFactorialWitoutRecuretionTest {
+public class CalculatingFactorialWitoutRecursionTest {
     private final int inputNumber;
     private final int expectedResult;
 
-    public CalculatingFactorialWitoutRecuretionTest(int inputNumber, int expectedResult) {
+    public CalculatingFactorialWitoutRecursionTest(int inputNumber, int expectedResult) {
         this.inputNumber = inputNumber;
         this.expectedResult = expectedResult;
     }
@@ -29,6 +29,6 @@ public class CalculatingFactorialWitoutRecuretionTest {
     @Test
     public void testPrimeNumberChecker() {
         assertEquals(expectedResult,
-                SilniaBezRekurencji.solution(inputNumber));
+                CalculatingFactorialWitoutRecursion.solution(inputNumber));
     }
 }

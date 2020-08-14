@@ -1,4 +1,4 @@
-public class SilniaBezRekurencji {
+public class CalculatingFactorialWitoutRecursion {
 
     public static int solution(int inputNumber) {
         int result = 1;

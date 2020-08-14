@@ -1,98 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="178d0bbb-7110-4a1a-bb26-39c21b9383b6" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="178d0bbb-7110-4a1a-bb26-39c21b9383b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatingFactorialWitoutRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatingFactorialWitoutRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FindNumbersWithEvenNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HowManyNumbersAreSmallerThanTheCurrentNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HowManyNumbersAreSmallerThanTheCurrentNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MathEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MathEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinimumTimeVisitingAllPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinimumTimeVisitingAllPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberOfStepsToReduceANumberToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberOfStepsToReduceANumberToZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RunningSumOf1dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RunningSumOf1dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SG1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SG1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SongDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SongDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SubtractTheProductAndSumOfDigitsOfAnInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubtractTheProductAndSumOfDigitsOfAnInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatingFactorialWitoutRecursionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatingFactorialWitoutRecursionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FindNumbersWithEvenNumberOfDigitsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FindNumbersWithEvenNumberOfDigitsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GroupAnagramsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GroupAnagramsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HappyNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HappyNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HowManyNumbersAreSmallerThanTheCurrentNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HowManyNumbersAreSmallerThanTheCurrentNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MathEvaluatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathEvaluatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MaximumSubarrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaximumSubarrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MinimumTimeVisitingAllPointsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MinimumTimeVisitingAllPointsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MoveZeroesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MoveZeroesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NumberOfStepsToReduceANumberToZeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumberOfStepsToReduceANumberToZeroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PalindromTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalindromTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReversPolishNotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReversPolishNotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RunningSumOf1dArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunningSumOf1dArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SG1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SG1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SingleNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SingleNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SongDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SongDecoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SubtractTheProductAndSumOfDigitsOfAnIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SubtractTheProductAndSumOfDigitsOfAnIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UglyNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UglyNumberTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/JewelsAndStones/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JewelsAndStones/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Algorithms$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1591725912907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Algorithms$MoveZeroesTest_test1.ic" NAME="MoveZeroesTest.test1 Coverage Results" MODIFIED="1586790529975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Algorithms$All_in_Algorithms.ic" NAME="All in Algorithms Coverage Results" MODIFIED="1586793906979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1615" />
-    <option name="height" value="880" />
+    <option name="x" value="2326" />
+    <option name="y" value="-566" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectId" id="1eapsW6wWuOObvJyKnfCoGd5sV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="JewelsAndStones" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="JewelsAndStones" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="JewelsAndStones" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551628151676" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597184354267" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Crawler" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,6 +138,108 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.All in Algorithms">
+    <configuration name="All in Algorithms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.shouldCalcucateExpression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldCalcucateExpression" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FibonacciTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZeroesTest.shouldCalcucate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoveZeroesTest" />
+      <option name="METHOD_NAME" value="shouldCalcucate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversPolishNotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReversPolishNotationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="MaxIncreaseToKeepCitySkyline" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="MaxIncreaseToKeepCitySkyline" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Algorithms" />
+        <item itemvalue="JUnit.ReversPolishNotationTest" />
+        <item itemvalue="JUnit.MoveZeroesTest.shouldCalcucate" />
+        <item itemvalue="JUnit.FibonacciTest" />
+        <item itemvalue="JUnit.CalculatorTest.shouldCalcucateExpression" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -116,15 +250,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551627716131</updated>
-      <workItem from="1551627724304" duration="241000" />
+      <workItem from="1551627724304" duration="5947000" />
+      <workItem from="1554902800813" duration="284000" />
+      <workItem from="1578435696928" duration="73000" />
+      <workItem from="1584132261639" duration="9880000" />
+      <workItem from="1584180947627" duration="13210000" />
+      <workItem from="1584273016543" duration="618000" />
+      <workItem from="1584291846467" duration="3473000" />
+      <workItem from="1584736674504" duration="1366000" />
+      <workItem from="1584785259716" duration="3306000" />
+      <workItem from="1584790450804" duration="8786000" />
+      <workItem from="1586116827177" duration="4281000" />
+      <workItem from="1586203285295" duration="2576000" />
+      <workItem from="1586275364730" duration="4947000" />
+      <workItem from="1586789300728" duration="4256000" />
+      <workItem from="1587200423028" duration="2874000" />
+      <workItem from="1590771742186" duration="2421000" />
+      <workItem from="1591696552845" duration="37575000" />
+      <workItem from="1596823751608" duration="577000" />
+      <workItem from="1597170730570" duration="13837000" />
+      <workItem from="1597397814165" duration="614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241000" />
+    <option name="totallyTimeSpent" value="120901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1912" y="-849" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -132,11 +285,11 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,32 +313,194 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JewelsAndStones/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="2826" y="-463" key="#Inspections" timestamp="1597334124566">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="2826" y="-463" key="#Inspections/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597334124566" />
+    <state x="2012" y="-749" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597321770198">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="2012" y="-749" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597321770198" />
+    <state x="2947" y="-297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597321010247">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="2947" y="-297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597321010247" />
+    <state x="2980" y="-386" key="FileChooserDialogImpl" timestamp="1597341807003">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="2980" y="-386" key="FileChooserDialogImpl/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597341807003" />
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom" timestamp="1597340050010">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594888109873" />
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597340050010" />
+    <state width="2517" height="335" key="GridCell.Tab.0.center" timestamp="1597340050010">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594888109873" />
+    <state width="2517" height="335" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597340050010" />
+    <state width="2517" height="335" key="GridCell.Tab.0.left" timestamp="1597340050009">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594888109873" />
+    <state width="2517" height="335" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597340050009" />
+    <state width="2517" height="335" key="GridCell.Tab.0.right" timestamp="1597340050010">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594888109873" />
+    <state width="2517" height="335" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597340050010" />
+    <state x="2535" y="-619" key="SettingsEditor" timestamp="1597333601927">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594634233991" />
+    <state x="2535" y="-619" key="SettingsEditor/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597333601927" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1594818175851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594818175851" />
+    <state x="2376" y="-653" key="new project wizard" timestamp="1597342168860">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594635733767" />
+    <state x="2376" y="-653" key="new project wizard/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597342168860" />
+    <state x="2856" y="-90" key="run.anything.popup" timestamp="1597337642356">
+      <screen x="1920" y="-841" width="2560" height="1400" />
+    </state>
+    <state x="2856" y="-90" key="run.anything.popup/0.0.1920.1040/1920.-841.2560.1400@1920.-841.2560.1400" timestamp="1597337642356" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1594635435007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.-841.2560.1400@0.0.1920.1040" timestamp="1594635435007" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SG1.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="Dz" />
+        <watch expression="end" />
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>newExpression</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>treeParentsWithOccurrences</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ccc</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>aa</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
 </project>
